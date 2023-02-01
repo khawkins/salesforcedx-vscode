@@ -30,7 +30,7 @@
     "@salesforce/lightning-lsp-common": "3.10.0",
     "@salesforce/lwc-language-server": "3.10.0",
     "@salesforce/salesforcedx-utils-vscode": "55.2.0",
-    "ajv": "6.12.6",
+    "ajv": "8.12.0",
     "applicationinsights": "1.0.7",
     "eslint": "5.0.0",
     "jest-editor-support": "^28.0.0",
